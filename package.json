@@ -1,0 +1,23 @@
+{
+  "name": "endianess",
+  "version": "0.0.0",
+  "description": "Easily convert Little/Big endian typed arrays to the host endianess",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.9.1"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/endianess.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/endianess/issues"
+  },
+  "homepage": "https://github.com/mafintosh/endianess"
+}
