@@ -1,6 +1,6 @@
 {
   "name": "endianess",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Easily convert Little/Big endian typed arrays to the host endianess",
   "main": "index.js",
   "dependencies": {},
