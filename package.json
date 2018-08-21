@@ -1,7 +1,7 @@
 {
-  "name": "endianess",
+  "name": "convert-endianness",
   "version": "1.0.0",
-  "description": "Easily convert Little/Big endian typed arrays to the host endianess",
+  "description": "Easily convert Little/Big endian typed arrays to the host endianness",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/endianess.git"
+    "url": "https://github.com/mafintosh/convert-endianness.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/endianess/issues"
+    "url": "https://github.com/mafintosh/convert-endianness/issues"
   },
-  "homepage": "https://github.com/mafintosh/endianess"
+  "homepage": "https://github.com/mafintosh/convert-endianness"
 }
